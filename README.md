@@ -1,4 +1,7 @@
 # Medion P81101 (MD 86825) Keyboard
+
+**Achtung: Hier geht noch nichts (!) Nur Materialsammlung ... **
+
 Farbe der Hintergrundbeleuchtung einer Medion P81101 (MD 86825) Gaming Tastatur setzen per Python Skript
 
 Windows Treiber: 
