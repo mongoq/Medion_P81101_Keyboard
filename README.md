@@ -12,3 +12,8 @@ Python Reverse Engineering per (Todo - hier läuft noch nichts(!)):
 * https://stackoverflow.com/questions/117474/how-to-sniff-a-usb-port-under-windows
 * https://reverseengineering.stackexchange.com/questions/11248/replaying-packets-with-pyusb-does-not-have-the-expected-output
 * https://www.gutefrage.net/frage/medion-md-86825-tasten-leuchten-nicht
+
+Bild:
+![P81101](https://dstatic.computeruniverse.net/images/1000/90597304922218C4B1F54AE388DFF1C5.jpg)
+
+Kaufen: https://www.computeruniverse.net/products/90597304/medion-p81101-md-86825-usb-gaming-tastatur.asp
