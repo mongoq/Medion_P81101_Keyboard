@@ -1,6 +1,6 @@
 # Medion P81101 (MD 86825) Keyboard
 
-**ACHTUNG: Hier geht noch nichts (!) Nur Materialsammlung ...**
+**ACHTUNG: Hier geht noch nichts (!) bisher nur Materialsammlung ...**
 
 Farbe der Hintergrundbeleuchtung einer Medion P81101 (MD 86825) Gaming Tastatur ändern per Python Skript unter Linux
 
